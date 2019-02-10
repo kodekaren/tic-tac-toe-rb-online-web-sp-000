@@ -6,4 +6,8 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
+<<<<<<< HEAD
+=======
+turn(board)
+>>>>>>> f9943f8a7740f3e3e1ae525e7cdb2a372f3e62cf
 play(board)
